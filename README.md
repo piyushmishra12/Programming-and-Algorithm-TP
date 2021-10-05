@@ -1,5 +1,5 @@
 # Programming-and-Algorithm-TP
-Lab assignments (travaux pratiques) for each practical class of Programming and Algorithm for Piyush Mishra.
+Lab assignments (travaux pratiques) for each practical class of Programming and Algorithm for Piyush Mishra. The course is taken by [Julien Lefebre](https://github.com/JulienLefevreMars) and practical sessions by [Jeremie Perrin](https://github.com/PerrinJeremie).
 
 
 ### TP1:
