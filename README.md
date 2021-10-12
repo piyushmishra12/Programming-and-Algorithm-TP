@@ -14,5 +14,5 @@ Lab assignments (travaux pratiques) for each practical class of Programming and 
 * Sorting algorithms, comparison and analysis.
 * Time complexity study of O(n^2) and O(nlgn) sorting functions (Bubble sort and Heap sort).
 * Time complexity study of O(n) and O(lgn) searching functions (Sequential/Linear search and Binary/Dichotomous search).
-* Comparing the time complexities of heap sort, bubble sort and timsort (default python sort).
+* Comparing the times takenn to sort random arrays by heap sort, bubble sort and timsort (default python sort).
 * General approach for sequence alignment using the largest common subsequence (dynamic programming) approach.
