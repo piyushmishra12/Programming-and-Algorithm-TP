@@ -15,4 +15,10 @@ Lab assignments (travaux pratiques) for each practical class of Programming and 
 * Time complexity study of O(n^2) and O(nlgn) sorting functions (Bubble sort and Heap sort).
 * Time complexity study of O(n) and O(lgn) searching functions (Sequential/Linear search and Binary/Dichotomous search).
 * Comparing the times takenn to sort random arrays by heap sort, bubble sort and timsort (default python sort).
-* General approach for sequence alignment using the largest common subsequence (dynamic programming) approach.
+* *Optional Exercise*: General approach for sequence alignment using the largest common subsequence (dynamic programming) approach.
+### TP5
+* Implementing the Hamming Distance
+* Implementing the Levenshtein Distance
+* Sequence Alignment (using Largest Common Subsequence)
+* Local Alignment (using Smith Waterman Algorithm, referred the internet as suggested, but followed by creating my own comprehensive code.
+* *Optional Exercise*: Global Alignment (using the Needleman Wunsch algorithm)
